@@ -1,0 +1,9 @@
+% so the H+, with positive gradient, 'explores' cyclically in higher state
+% regimes. The H-, with negative gradient, 'explores state space cyclically
+% in lower state regimes.
+
+% the initial state sets the bar of this exploration. Cyclical 'energy'
+% likely still is maintained in the imaginary component, so I don't know
+% how alternating H+ and H- will play into this.
+
+% lets explore offset and slope of gradients.
